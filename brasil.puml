@@ -1,0 +1,12 @@
+@startuml
+class Match {
+
+date
+
+teamA
+teamB
+
+goalsA
+goalsB
+}
+@enduml
