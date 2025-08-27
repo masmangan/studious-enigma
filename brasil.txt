@@ -1,0 +1,2 @@
+data;teama;goalsa;teamb;goalsb
+2025-08-25; Flamengo; 8; Vitória; 0
